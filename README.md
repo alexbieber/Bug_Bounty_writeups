@@ -1,9 +1,22 @@
+## RESPECT BEG-BOUNTIES - ATLEAST THEY ARE TRYING TO DO SOMETHING!🔴🔴🔴🔴✔
 ## **Want to support my work?**
 
-If you think my work has added some value to your existing knowledge, then you can [Buy me a Coffee here](https://www.buymeacoffee.com/alexbieber) (and who doesn't loves a good cup of coffee?')
+<p align="center">
+  <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/Omegle-Location-Revealer?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/Omegle-Location-Revealer?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/Omegle-Location-Revealer?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/Omegle-Location-Revealer?color=teal&style=for-the-badge">
+</p>
 
-[![name](https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8wOS8wMGU4ZGJjODc0NzI0MmRjYTJmNGJkMmMzMzQ1ODUzZC5wbmdAMzAwd18wZS53ZWJw&creator=alexbieber&is_creating=creating%20educational%20cybersecurity%20related%20content.&design_code=1&design_color=%235F7FFF&slug=alexbieber)](https://www.buymeacoffee.com/alexbieber)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Alex--Bieber-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+</p>
 ## Contents
 
 - [Cross Site Scripting (XSS)](https://github.com/alexbieber/Bug_Bounty_writeups#cross-site-scripting-xss)
@@ -684,3 +697,51 @@ If you think my work has added some value to your existing knowledge, then you c
 `This Repo is maintained by : `
 
 - [alexbieber](https://github.com/alexbieber)
+
+ ##
+
+<h3><p align="center">Warning!</p></h3>
+
+<i>Any actions and or activities related to <b>Omegle-Location-Revealer</b> is your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+
+## YOU CAN BUY ME A COFFEE-->  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## LOVE YOU 3000!🔴
+
+
+##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src="https://i.pinimg.com/originals/b1/bc/39/b1bc3958fbb3f8b9a6712778b4cdc840.gif"/>
+</p>
+ <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+### Find Me on :
+<p align="left">
+  <a href="https://github.com/alexbieber" target="_blank"><img src="https://img.shields.io/badge/Github-Alex--Bieber-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/alexbieber1234" target="_blank"><img src="https://img.shields.io/badge/IG-%40alexbieber1234-red?style=for-the-badge&logo=instagram"></a>
+</p>
+
+
+## DONATE YOUR MONEY FOR HELPLESS PEOPLE AROUND THE WORLD! LETS HELP THEM TOGETHER- LOVE YOU 3000❤❤❤❤
+<p>
+  <a href="https://www.paypal.me/alexbieber1234">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
+# Donate your money and it will inspire soo many people to live their life.
+
+
+ ## THANKS!  
+   Enjoy ✔
+ ## 
+          🔴🔴🔴🔴  🔴   🔴  🔴 🔴    🔴 🔴   🔴    🔴     🔴  🔴🔴🔴      🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+              🔴      🔴🔴🔴  🔴  🔴    🔴  🔴  🔴    🔴  🔴    🔴__\         🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+              🔴      🔴   🔴 🔴🔴 🔴   🔴   🔴 🔴    🔴🔴 🔴       🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+              🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+                                                                              
+# THANKS FOR USING! LOVE YOU 3000!🔴🔴🔴🔴✔
