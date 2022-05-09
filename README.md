@@ -1,15 +1,16 @@
 ## RESPECT BEG-BOUNTIES - ATLEAST THEY ARE TRYING TO DO SOMETHING!🔴🔴🔴🔴✔
 ## **Want to support my work?**
+## WELCOME TO HACKERMANIA---
 
 <p align="center">
   <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/alexbieber/Omegle-Location-Revealer?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/alexbieber/Omegle-Location-Revealer?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/alexbieber/Omegle-Location-Revealer?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/alexbieber/Omegle-Location-Revealer?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/Bug_Bounty_writeups?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/Bug_Bounty_writeups?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/Bug_Bounty_writeups?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/Bug_Bounty_writeups?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
