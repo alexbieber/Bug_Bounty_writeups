@@ -1,9 +1,9 @@
-## RESPECT BEG-BOUNTIES - ATLEAST THEY ARE TRYING TO DO SOMETHING!🔴🔴🔴🔴✔
+## STOP DOING BEG-BOUNTIES - STOP COPYING ANOTHERS POC ! DO SOMETHING DIFFERENT!🔴🔴🔴🔴✔
 ## **Want to support my work?**
-## WELCOME TO HACKERMANIA---
-
+## DONT TRY HACKING WITHOUT BASICS --- IT WILL BE DANGEROUS FOR YOU AND YOUR FUTURE!
+ 
 <p align="center">
-  <img src="https://c.tenor.com/0Ll8B73iS30AAAAd/girl-shocked.gif">
+  <img src="https://piximus.net/media2/47111/fails-gifs-that-will-keep-you-laughing-for-a-long-time-1.gif">
   </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
